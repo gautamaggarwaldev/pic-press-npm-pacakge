@@ -1,6 +1,6 @@
 {
   "name": "pic-press",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Node.js package to compress images using sharp.",
   "main": "index.js",
   "scripts": {
