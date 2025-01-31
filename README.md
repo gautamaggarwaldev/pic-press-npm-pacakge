@@ -53,7 +53,7 @@ This will compress `input.jpg` to `output.jpg` with 70% quality.
 **import the package**
 
 ```javascript
-const { compressImage } = require("press-pic");
+const { compressImage } = require("pic-press");
 ```
 
 **Example code:**
